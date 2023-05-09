@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="df.middleware.mybatis.dao.IUserDao">
+
+    <!--<select id="queryUserInfoById" parameterType="java.lang.Long" resultType="df.middleware.mybatis.po.User">
+        SELECT id, userId, userHead,userName
+        FROM user
+        where id = #{id}
+    </select>-->
+    <update  id="updateById" parameterType="java.lang.Long">
+        update user set userName='df_lucky_forever' where id = #{id}
+    </update>
+
+    <update  id="insert" parameterType="df.middleware.mybatis.po.User" >
+        INSERT INTO user
+        (userId, userName, userHead, createTime, updateTime)
+        VALUES (#{userId}, #{userName}, #{userHead}, now(), now())
+    </update>
+
+    <delete id="deleteUserInfoByUserId" parameterType="java.lang.String">
+        DELETE FROM user WHERE userId = #{userId}
+    </delete>
+
+    <select id="queryUserInfoList" resultType="df.middleware.mybatis.po.User">
+        SELECT id, userId, userName, userHead
+        FROM user
+    </select>
+<!--   <select id="queryUserInfo" parameterType="df.middleware.mybatis.po.User" resultType="df.middleware.mybatis.po.User">-->
+<!--        SELECT id, userId, userName, userHead-->
+<!--        FROM user-->
+<!--        where id = #{id} and userId = #{userId}-->
+<!--    </select>-->
+</mapper>
