@@ -27,7 +27,6 @@ public class MapperProxy<T> implements InvocationHandler, Serializable {
         this.mapperInterface=mapperInterface;
     }
 
-
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         if (Object.class.equals(method.getDeclaringClass())){

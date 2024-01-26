@@ -22,6 +22,9 @@ public class ApiTest {
         String res = userDao.queryUserName("10001");
         System.out.println("测试结果："+ res);
 
+        String res1 = userDao.queryUserAge("10001");
+        System.out.println("测试结果："+ res1);
+
     }
 }
 
