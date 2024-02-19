@@ -1,0 +1,7 @@
+
+k
+java:S38240"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ßüíº8‚éªÙÚ1
+I
+java:S1948",Make "sqlSession" transient or serializable.(»õÉÖ8œéªÙÚ1
+J
+java:S1948"-Make "methodCache" transient or serializable.(œ²ñ8éªÙÚ1
