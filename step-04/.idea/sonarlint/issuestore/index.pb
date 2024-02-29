@@ -9,9 +9,13 @@ d
 4src/main/java/com/df/mybatis/session/SqlSession.java,7\2\727829cbb686d75e1720a1be8473f0fdf844cb28
 ^
 .src/test/java/com/df/mybatis/test/po/User.java,2\a\2a5d46d01ee4aefbbb7b980f8a22295a1fd8a83d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/main/java/com/df/mybatis/bingding/MapperProxy.java,3\e\3e322d283271272ff8a959869a9e776320859fb7
+m
+=src/main/java/com/df/mybatis/bingding/MapperProxyFactory.java,e\e\eea0198f87b428e8c3d0697fec75bb4b6291356a
 n
 >src/main/java/com/df/mybatis/builder/xml/XMLConfigBuilder.java,9\5\957e231e84eaa68ed39a49108af84a830c9b7779
-g
-7src/main/java/com/df/mybatis/session/Configuration.java,8\2\82d3b83fbe9b58c956f46673ca45b9b501a2e078
-t
-Dsrc/main/java/com/df/mybatis/session/defaults/DefaultSqlSession.java,b\1\b12a5d25618435db320b1a0ce9c2905bee33c212
+n
+>src/main/java/com/df/mybatis/datasource/DataSourceFactory.java,f\7\f743864c8468ef97810f252554a1c074b33fe454
