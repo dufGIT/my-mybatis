@@ -1,0 +1,5 @@
+
+Z	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(ï‰
+>	java:S108+")Either remove or fill this block of code.(¢…ÊÇ
+`
+java:S1128"CRemove this unused import 'com.df.mybatis.bingding.MapperRegistry'.(‰ğÔ·8ìø¦Æß1

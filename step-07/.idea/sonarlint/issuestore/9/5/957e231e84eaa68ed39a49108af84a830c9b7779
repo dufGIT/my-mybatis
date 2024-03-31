@@ -1,0 +1,20 @@
+
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(àøû—úÿÿÿÿ
+`	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(•„şåúÿÿÿÿ
+I
+java:S2755("3Disable access to external entities in XML parsing.(ÄùÙî
+I
+java:S1874Y"3Remove this use of "newInstance"; it is deprecated.(Ş¹Â´
+N
+java:S1874^"3Remove this use of "newInstance"; it is deprecated.(³äï…üÿÿÿÿ
+Y
+java:S1128"<Remove this unused import 'com.df.mybatis.mapping.BoundSql'.(ºÔ´8Ö‹ õå1
+e
+java:S1128	"CRemove this unused import 'com.df.mybatis.mapping.MappedStatement'.(åÄí’ÿÿÿÿÿ8Ö‹ õå1
+d
+java:S1128
+"BRemove this unused import 'com.df.mybatis.mapping.SqlCommandType'.(ëÇÒ®øÿÿÿÿ8×‹ õå1
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8×‹ õå1
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8×‹ õå1

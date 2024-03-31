@@ -1,0 +1,46 @@
+
+h
+java:S1192å"LDefine a constant instead of duplicating this literal "Connection " 3 times.(ö÷¤şÿÿÿÿ
+K
+java:S1066ê"/Merge this if statement with the enclosing one.(”Ø›èúÿÿÿÿ
+E
+java:S1066ë"/Merge this if statement with the enclosing one.(¼ÎP
+R
+java:S2629o"7Use the built-in formatting to construct this argument.(²€Èúÿÿÿÿ
+^
+java:S2095ğ"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ğ¦’¯
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(µåÒÃúÿÿÿÿ
+\
+java:S3457A"AFormat specifiers should be used instead of string concatenation.(¡İáüÿÿÿÿ
+\
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(÷üüÿÿÿÿ
+\
+java:S3457e"AFormat specifiers should be used instead of string concatenation.(íÃÛ¤üÿÿÿÿ
+t
+java:S2142u"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+\
+java:S3457o"AFormat specifiers should be used instead of string concatenation.(²€Èúÿÿÿÿ
+X
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Šì½…
+]
+java:S3457Â"AFormat specifiers should be used instead of string concatenation.(Ù³÷ıÿÿÿÿÿ
+W
+java:S3457Ï"AFormat specifiers should be used instead of string concatenation.(ãïX
+X
+java:S3457Ó"AFormat specifiers should be used instead of string concatenation.(¶ı¾
+i
+java:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÏÜ¯¢
+]
+java:S3457å"AFormat specifiers should be used instead of string concatenation.(ö÷¤şÿÿÿÿ
+]
+java:S3457î"AFormat specifiers should be used instead of string concatenation.(Ë¡ÊÎùÿÿÿÿ
+X
+java:S3457÷"AFormat specifiers should be used instead of string concatenation.(Ößá¾
+X
+java:S3457ú"AFormat specifiers should be used instead of string concatenation.(¨³¹
+?	java:S108ı")Either remove or fill this block of code.(¢…ÊÇ
+]
+java:S3457€"AFormat specifiers should be used instead of string concatenation.(ö÷¤şÿÿÿÿ
+?	java:S108™")Either remove or fill this block of code.(ìŠÈ
+?	java:S108§")Either remove or fill this block of code.(ìŠÈ

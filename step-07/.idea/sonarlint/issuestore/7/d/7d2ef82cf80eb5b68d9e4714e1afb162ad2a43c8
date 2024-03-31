@@ -1,0 +1,12 @@
+
+b	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(‘éÂí8êºÛ°ä1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ó¥Š‚8·»Û°ä1
+V
+java:S1874%"4Remove this use of "isAccessible"; it is deprecated.(µ‰£Úüÿÿÿÿ8ÏÛÛ°ä1
+I
+java:S3011&",This accessibility update should be removed.(”İÙ®8ÏÛÛ°ä1
+V
+java:S1874,"4Remove this use of "isAccessible"; it is deprecated.(µ‰£Úüÿÿÿÿ8ÑÛÛ°ä1
+I
+java:S3011-",This accessibility update should be removed.(”İÙ®8ÑÛÛ°ä1

@@ -1,0 +1,8 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(˜¼½…þÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‹žÐûúÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡îæ»
+s	java:S116"^Rename this field "LANGUAGE_DRIVER_MAP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡îæ»
+N
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(¿‚¹¥ûÿÿÿÿ

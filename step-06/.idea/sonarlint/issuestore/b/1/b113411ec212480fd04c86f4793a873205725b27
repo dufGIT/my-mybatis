@@ -1,0 +1,54 @@
+
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(²Ä´Š
+\	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(²Ä´Š
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(´¾‰Ãúÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(´¾‰Ãúÿÿÿÿ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ûËéúûÿÿÿÿ
+\	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(èÜŞˆ
+a	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(©ƒàÍúÿÿÿÿ
+\	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(èÜŞˆ
+a	java:S112º"FDefine and throw a dedicated exception instead of using a generic one.(©ƒàÍúÿÿÿÿ
+p
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(£åÆŞ
+t
+java:S1192"^Define a constant instead of duplicating this literal ".  This breaks the JavaBeans " 4 times.(ùëµ\
+^
+java:S1192œ"GDefine a constant instead of duplicating this literal "' in '" 4 times.(èÜŞˆ
+a
+java:S1192"KDefine a constant instead of duplicating this literal " in class " 4 times.(ùëµ\
+Š
+java:S1192"sDefine a constant instead of duplicating this literal "specification and can cause unpredicatble results." 4 times.(ÉÀÌ€
+J
+java:S1066J"/Merge this if statement with the enclosing one.(½Éöıÿÿÿÿ
+J
+java:S1066g"/Merge this if statement with the enclosing one.(¬éÊşÿÿÿÿ
+E
+java:S1066z"/Merge this if statement with the enclosing one.(ÒüÑ“
+j
+java:S3824ô"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(»Ï©ñşÿÿÿÿ
+B
+java:S3011L",This accessibility update should be removed.(”İÙ®
+O
+java:S1874P"4Remove this use of "isAccessible"; it is deprecated.(Ô¯Ñ©ùÿÿÿÿ
+g
+java:S1871f"LThis branch's code block is the same as the block for the branch on line 95.(öû¢şÿÿÿÿ
+n
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(°éï¾üÿÿÿÿ
+K
+java:S2864…"4Iterate over the "entrySet" instead of the "keySet".(Í·‹ë
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(•Õëå
+C
+java:S3011¸",This accessibility update should be removed.(˜ÂÓ˜
+P
+java:S1874½"4Remove this use of "isAccessible"; it is deprecated.(Î–—°øÿÿÿÿ
+P
+java:S2864é"4Iterate over the "entrySet" instead of the "keySet".(¹Úâ¦ùÿÿÿÿ
+B
+java:S3011Ñ",This accessibility update should be removed.(Üç·z
+^
+java:S5738€"GRemove this call to a deprecated class, it has been marked for removal.(äœúˆ
+_
+java:S5738€"HRemove this call to a deprecated method, it has been marked for removal.(äœúˆ
+=
+java:S1452"&Remove usage of generic wildcard type.(äö½ƒ
